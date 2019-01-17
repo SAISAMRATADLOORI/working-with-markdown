@@ -95,9 +95,16 @@ dcase@nwmissouri.edu
 
 ##ABOUT NW
 -[URL](https://www.nwmissouri.edu/aboutus/index.htm).
+-Quality Academics:
+Northwest offers 127 undergraduate programs and 40 graduate's programs. The business, education, geography and agriculture departments graduate the largest number of students each year. Career Services offers an "Exploring Majors" fair where students can learn about different majors on campus and find which major is the perfect fit for them.
+
+-Profession-Based Experience:
+Northwest is a true advocate of profession-based experience. For instance, in our Horace Mann Lab School students majoring in education get a true inside view of what teaching is all about. Northwest offers several other opportunities for profession-based experiences including internships, the University farm for agriculture majors, on-campus radio and television stations and volunteer work.
 
 
+##ACADEMICS
 
+Northwest Missouri State University has had a long tradition of academic excellence. Today, the University offers outstanding undergraduate and graduate degree programs in the fields that prepare students for careers in a global marketplace, and for laying the foundation for lifelong learning. Please view these pages to see the variety of programs and to become acquainted with our schools, departments and faculty.
 
 
 ##AREAS OF STUDY

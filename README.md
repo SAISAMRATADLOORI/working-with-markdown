@@ -94,7 +94,11 @@ dcase@nwmissouri.edu
 -[WEBSITE](https://www.nwmissouri.edu/)
 
 ##ABOUT NW
--[URL](https://www.nwmissouri.edu/aboutus/index.htm)
+-[URL](https://www.nwmissouri.edu/aboutus/index.htm).
+
+
+
+
 
 ##AREAS OF STUDY
 -Academics Homepage
@@ -103,7 +107,12 @@ dcase@nwmissouri.edu
 -Graduate School
 -Northwest-Kansas City
 -Online Programs
--Honors Program
+-Honors Program.
+
+
+
+
+
 ##UNIVERSITY OFFICES
 -Career Services
 -Facility Services

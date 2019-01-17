@@ -27,7 +27,7 @@ Northwest Missouri State University has had a long tradition of academic excelle
 - Graduate School
 - Northwest-Kansas City
 - Online Programs
-- Honors Program.
+- Honors Program
 
 
 

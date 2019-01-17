@@ -108,10 +108,12 @@ Northwest Missouri State University has had a long tradition of academic excelle
 
 
 ##AREAS OF STUDY
--"Academics Homepage"
--"Schools and Departments"
--"Majors and Minors"
--"Graduate School"
+
+- "Academics Homepage"
+
+- "Schools and Departments"
+- "Majors and Minors"
+- "Graduate School"
 -"Northwest-Kansas City"
 -"Online Programs"
 -"Honors Program".

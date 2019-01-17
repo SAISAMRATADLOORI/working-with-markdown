@@ -121,16 +121,16 @@ Northwest Missouri State University has had a long tradition of academic excelle
 
 
 ##UNIVERSITY OFFICES
--"Career Services"
--"Facility Services"
--"Financial Aid"
--"Human Resources"
--"Information Technology"
--"International Involvement Center"
--"Study Abroad"
--"Bursar/Cashiering"
--"University Police"
--"University Marketing & Communication"
+1.Career Services
+1.Facility Services
+-"Financial Aid
+1.Human Resources
+1.Information Technology
+1.International Involvement Center
+1.Study Abroad
+1.Bursar/Cashiering
+1.University Police
+1.University Marketing & Communication
 
 
 

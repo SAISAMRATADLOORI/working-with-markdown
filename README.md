@@ -96,6 +96,25 @@ dcase@nwmissouri.edu
 ##ABOUT NW
 -[URL](https://www.nwmissouri.edu/aboutus/index.htm)
 
+##AREAS OF STUDY
+-Academics Homepage
+-Schools and Departments
+-Majors and Minors
+-Graduate School
+-Northwest-Kansas City
+-Online Programs
+-Honors Program
+##UNIVERSITY OFFICES
+-Career Services
+-Facility Services
+-Financial Aid
+-Human Resources
+-Information Technology
+-International Involvement Center
+-Study Abroad
+-Bursar/Cashiering
+-University Police
+-University Marketing & Communication
 
 
 

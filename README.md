@@ -88,7 +88,15 @@ Denise Case
 
 dcase@nwmissouri.edu
 
-## SAI SAMRAT
-![Hosted image](https://mic.com/articles/140840/the-bearcat-is-a-real-animal-and-it-smells-like-buttered-popcorn#.v6osMoPxc.jpg "barecat")
+## ABOUT NWMISSOURI
+![Hosted image](https://www.nwmissouri.edu/marketing/images/design/logos/N60-2Stack-B.jpg)
 
-![image](https://img-aws.ehowcdn.com/750x428p/photos.demandstudios.com/getty/article/133/202/200329496-001_XS.jpg)
+-[WEBSITE](https://www.nwmissouri.edu/)
+
+##ABOUT NW
+-[URL](https://www.nwmissouri.edu/aboutus/index.htm)
+
+
+
+
+

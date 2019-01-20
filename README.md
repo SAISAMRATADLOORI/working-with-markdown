@@ -14,12 +14,12 @@ Northwest offers 127 undergraduate programs and 40 graduate's programs. The busi
 Northwest is a true advocate of profession-based experience. For instance, in our Horace Mann Lab School students majoring in education get a true inside view of what teaching is all about. Northwest offers several other opportunities for profession-based experiences including internships, the University farm for agriculture majors, on-campus radio and television stations and volunteer work.
 
 
-##ACADEMICS
+## ACADEMICS
 
 Northwest Missouri State University has had a long tradition of academic excellence. Today, the University offers outstanding undergraduate and graduate degree programs in the fields that prepare students for careers in a global marketplace, and for laying the foundation for lifelong learning. Please view these pages to see the variety of programs and to become acquainted with our schools, departments and faculty.
 
 
-##AREAS OF STUDY
+## AREAS OF STUDY
 
 - Academics Homepage
 - Schools and Departments
@@ -33,7 +33,7 @@ Northwest Missouri State University has had a long tradition of academic excelle
 
 
 
-##UNIVERSITY OFFICES
+## UNIVERSITY OFFICES
 
 1. Career Services
 1. Facility Services
@@ -46,12 +46,13 @@ Northwest Missouri State University has had a long tradition of academic excelle
 1. University Police
 1. University Marketing & Communication
 
-##HUMAN RESOURSES
+## HUMAN RESOURSES
+
 Welcome to the Office of Human Resources
 
 The Northwest Office of Human Resources supports the University's mission, values and strategic initiatives. We take active responsibility and support continuous learning and employee development across all units and among all employee classifications. We are committed to offering equal employment opportunity and providing a discrimination-free environment. The benefit and compensation programs will be administered fairly and equitably focusing on competitive market-based trends. We strive to be fair, responsive, and trustworthy.
 
-##Welcome to Student Employment
+##  Welcome to Student Employment
 
 The Northwest Student Employment experience can be both fun and rewarding. It can give you an opportunity to explore and affirm your career choice, as well as gain critical skills that improve your marketability for professional employment. Earning money while going to school helps to finance your education, while providing you with the opportunity to become a valuable part of the campus community. 
 

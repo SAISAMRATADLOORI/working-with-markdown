@@ -60,7 +60,7 @@ Did you know research indicates that students who work part-time on-campus achie
 
 -[VIEDO LINK](https://www.youtube.com/watch?v=NKLcrn5EUk8)
 
-##CONTACT
+## CONTACT
 Northwest Missouri State University
 Office of Admissions
 800 University Drive
